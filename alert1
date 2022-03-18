@@ -1,0 +1,9 @@
+<html>
+<body>
+<p> Before Script </p>
+<script>
+alert("I'am Javascript");
+</script>
+<p> After Script </p>
+</body>
+</html>
